@@ -30,7 +30,11 @@ twitter_username: jekyllrb
 github_username:  ernimj
 
 # Build settings
+<<<<<<< HEAD
 # theme: minima
+=======
+theme: jekyll-theme-architect
+>>>>>>> 84dc3badc770d1020288fc2951172095bdd91c1d
 plugins:
   - jekyll-feed
 theme: jekyll-theme-architect
